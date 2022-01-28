@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strategy-pattern", "strategy-pattern\strategy-pattern.csproj", "{4DEBB053-E43D-4CAC-B1C7-ED6067EBBEA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUCKLibrary", "DUCKLibrary\DUCKLibrary.csproj", "{18B0AD4D-B79C-4D37-94F1-486EF76F0E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4DEBB053-E43D-4CAC-B1C7-ED6067EBBEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DEBB053-E43D-4CAC-B1C7-ED6067EBBEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DEBB053-E43D-4CAC-B1C7-ED6067EBBEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B0AD4D-B79C-4D37-94F1-486EF76F0E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B0AD4D-B79C-4D37-94F1-486EF76F0E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B0AD4D-B79C-4D37-94F1-486EF76F0E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B0AD4D-B79C-4D37-94F1-486EF76F0E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
