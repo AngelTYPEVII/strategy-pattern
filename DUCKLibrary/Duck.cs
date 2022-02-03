@@ -8,8 +8,6 @@ namespace DUCKLibrary
 {
     abstract public class Duck
     { 
-    
-        
         public string Swim()
         {
             return "Swim" + " " + this.GetType();
