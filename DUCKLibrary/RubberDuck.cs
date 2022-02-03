@@ -7,19 +7,15 @@ using DUCKLibrary.Interface;
 
 namespace DUCKLibrary
 {
-    public class RedheadDuck : Duck, IQuackable, IFlyable
+    public class RubberDuck : Duck, IQuackable
     {
         public override string Display()
         {
-            return "RedheadDuck" + " " + this.GetType();
+            return "RubberDuck" + " " + this.GetType();
         }
         public string Quack()
         {
             return "Quack" + " " + this.GetType();
-        }
-        public string Fly()
-        {
-            return "Fly" + " " + this.GetType();
         }
     }
 }
